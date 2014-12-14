@@ -1,4 +1,5 @@
 Nuke-IOS-Flipswitch-Toggle
 ==========================
 
-Flipswitch integration with Nuke-IOS Daemon
+A simple switch that controls nuke using one .plist flagfile
+ 
